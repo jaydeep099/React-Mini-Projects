@@ -1,5 +1,5 @@
 const AppName = () => {
-  return <h1 class="fw-bolder">Bharat Clock</h1>;
+  return <h1 className="fw-bolder">Bharat Clock</h1>;
 };
 
 export default AppName;
